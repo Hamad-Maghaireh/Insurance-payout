@@ -1,2 +1,4 @@
 # Insurance-payout
-classification Machine Learning model that predicts if the individual has Heart disease or not based on different factors. The model was developed using Python and the scikit-learn library. The process also included cleaning a dataset using the Pandas library and creating visualizations using Seaborn library
+Regression Machine Learning model that predicts the charges of insurance based on simple factors.
+In this model python, sickit learn and keras libraries were used to develop the model and the process also included data visualization using seaborn library, panadas and numpy libraries were included too.
+
